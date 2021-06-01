@@ -1,0 +1,19 @@
+.skaiciuotuvas {
+  display: inline-block;
+  width: 282px;
+  border: 1px solid #000;
+  margin: 20px;
+  background-color: #eff1f5;
+}
+.skaiciuotuvas > .screen {
+}
+
+.skaiciuotuvas > .answer {
+}
+
+.skaiciuotuvas > .keybord {
+  color: #fff;
+}
+
+.skaiciuotuvas > .button.pilkas {
+}
