@@ -9,9 +9,9 @@ _28 group project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
-Site published at https://front-end-by-rimantas.github.io/28-grupe-calculator/
+Site published at https://virginijus03.github.io/19-skaiciuotuvas/
 
-Design: [Skaiciutuvas](https://cdn.discordapp.com/attachments/833468929020133416/849301956387536916/iphone_6-7-8___5.png)
+Design: [Skaiciuotuvas](https://cdn.discordapp.com/attachments/833468929020133416/849301956387536916/iphone_6-7-8___5.png)
 
 ## Project features
 
@@ -22,4 +22,4 @@ Design: [Skaiciutuvas](https://cdn.discordapp.com/attachments/833468929020133416
 
 ## Authors
 
-[Rimantas](https://github.com/belauzas)
+[Virginijus](https://virginijus03.github.io/19-skaiciuotuvas/)
